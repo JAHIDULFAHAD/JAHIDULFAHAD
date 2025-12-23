@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./profile.png" alt="Jahidul Haque Fahad" width="220" style="border-radius:50%; border:5px solid #FFD60A;">
-
-<br/><br/>
-
 <div style="background-color:#FFD60A; padding:30px; border-radius:15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 # 👋 Hello, I'm Jahidul Haque Fahad!
@@ -42,20 +38,11 @@ I am an enthusiastic final-year Computer Science and Engineering (CSE) student p
 
 MySQL • REST API • HTML • CSS • JavaScript • Provider • MVC
 
-### 💬 My Blog Articles
-<!-- Jodi blog thake, link add koro. Na thakle ei line remove koro -->
-Coming soon... 📝
 
 ### 📫 Reach me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/jahidul-haque-fahad-94912417b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidulh829@gmail.com)
 
 ### 💻 Check Out My Repos ⬇️
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAHIDULFAHAD&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIDULFAHAD&layout=compact&theme=radical&hide_border=true)
-
-<!-- Optional: Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAHIDULFAHAD&theme=radical&hide_border=true)
 
 </div>
