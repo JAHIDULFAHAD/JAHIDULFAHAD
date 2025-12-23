@@ -11,7 +11,6 @@ Flutter • Kotlin • Firebase • Java • .NET
 📧 [jahidulh829@gmail.com](mailto:jahidulh829@gmail.com)  
 📞 [+8801626383239](tel:+8801626383239)  
 📍 Uttara, Dhaka, Bangladesh  
-🔗 [GitHub: JAHIDULFAHAD](https://github.com/JAHIDULFAHAD)  
 💼 [LinkedIn: JAHIDUL HAQUE FAHAD](https://bd.linkedin.com/in/jahidul-haque-fahad-94912417b)
 
 <br/>
