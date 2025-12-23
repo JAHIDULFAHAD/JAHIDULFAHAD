@@ -49,8 +49,6 @@ Always eager to **learn, collaborate, and contribute to real-world software proj
 
 ---
 
-### 💻 My Projects / Repositories
-Check out my GitHub for my latest projects:  
-[![GitHub](https://img.shields.io/badge/My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+### 💻 Check Out My Repos ⬇️
 
 </div>
