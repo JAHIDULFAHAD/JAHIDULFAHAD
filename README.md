@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <h1 align="left">Hi, I'm Jahidul Haque Fahad 👋</h1>
-<h3 align="left">🚀 Software Developer | App Developer </h3>
+<h3 align="left">🚀 Software Developer | App Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -9,15 +9,16 @@
 * 💡 Passionate about **clean code, scalable architectures, and user-centric products**
 * 💬 Ask me about **Flutter, Mobile App Development, and Software Design**
 * 🎓 B.Sc. in Computer Science & Engineering (CSE)
-* 📫 Reach me via **your email or LinkedIn (update this section)**
+* 📫 Reach me via **LinkedIn or email (update this section)**
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="[https://linkedin.com](https://www.linkedin.com/in/jahidul-haque-fahad-94912417b/" target="_blank">
+<a href="https://www.linkedin.com/in/jahidul-haque-fahad-94912417b/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 ---
