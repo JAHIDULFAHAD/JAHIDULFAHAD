@@ -1,54 +1,46 @@
-<div align="center">
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
-<div style="background-color:#FFD60A; padding:40px; border-radius:20px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width:800px;">
+<h1 align="left">Hi, I'm Jahidul Haque Fahad 👋</h1>
+<h3 align="left">🚀 App Developer | Software Developer | Problem Solver</h3>
 
-# 👋 Hello, I'm Jahidul Haque Fahad!
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Final-Year CSE Student | Mobile & Web App Developer** 👨‍💻  
-
-💻 **Specialties:** Flutter • Kotlin • Firebase • Java • .NET  
-
-📧 [jahidulh829@gmail.com](mailto:jahidulh829@gmail.com) | 📞 [+8801626383239](tel:+8801626383239)  
-📍 Uttara, Dhaka, Bangladesh  
-💼 [LinkedIn](https://bd.linkedin.com/in/jahidul-haque-fahad-94912417b)  
-
-<br/>
-
-**Open for Hiring / Internships / Freelance Opportunities!** 🚀
-
-</div>
-
-<br/>
-
-### 👨‍💻 About Me
-I am a passionate final-year Computer Science and Engineering (CSE) student with a CGPA of **3.59**, experienced in building mobile and web applications.  
-I specialize in **Flutter-based Android and cross-platform apps** and enjoy creating efficient, user-friendly solutions.  
-Always eager to **learn, collaborate, and contribute to real-world software projects**.
+* 📱 Currently working with **[Flutter](https://flutter.dev/)** to build cross-platform apps for **mobile & web**
+* 💡 Passionate about **clean code, scalable architectures, and user-centric products**
+* 💬 Ask me about **Flutter, Mobile App Development, Problem Solving, and Software Design**
+* 🎓 B.Sc. in Computer Science & Engineering (CSE)
+* 📫 Reach me via **your email or LinkedIn (update this section)**
 
 ---
 
-### 🔧 Tech Stack
+### 🌐 Connect with me
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) 
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)  
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-
-**Other Skills:** MySQL • REST API • HTML • CSS • JavaScript • Provider • MVC  
+<p align="left">
+<a href="https://linkedin.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 📫 Connect With Me
+### 🛠️ Languages & Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/jahidul-haque-fahad-94912417b)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidulh829@gmail.com)  
-
----
-
-### 💻 Check Out My Repos ⬇️
-
-</div>
+<p align="left">
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+</p>
