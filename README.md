@@ -9,8 +9,6 @@
 * 💡 Passionate about **clean code, scalable architectures, and user-centric products**
 * 💬 Ask me about **Flutter, Mobile App Development, and Software Design**
 * 🎓 B.Sc. in Computer Science & Engineering (CSE)
-* 📫 Reach me via **LinkedIn or email (update this section)**
-
 ---
 
 ### 🌐 Connect with me
